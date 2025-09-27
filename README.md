@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/ae74f938-a8d8-432c-882b-4af3cb29e09f" />
+
+
 <!--
 **xnbth/xnbth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
